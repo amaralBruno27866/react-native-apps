@@ -26,7 +26,6 @@ export const style = StyleSheet.create({
     width: '100%',
     alignItems: 'center',
     marginTop: 40,
-    //justifyContent: 'center'
   },
   logo:{
     width: 200,
